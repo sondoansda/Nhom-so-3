@@ -28,7 +28,7 @@
 
 ## Giao diện người dùng
 ### Màn hình chính
-![Giao diện màn hình chính](assets/images/main_screen.png)
+(assets/images/main_screen.png)
 
 ### Màn hình thêm công việc
-![Màn hình thêm công việc](assets/images/add_task_screen.png)
+(assets/images/add_task_screen.png)
